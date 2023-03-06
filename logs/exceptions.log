@@ -1,0 +1,624 @@
+2023-03-04T13:04:45.927Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:9:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:04:45.928Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:9:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:04:46.962Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:9:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:04:46.963Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:9:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:04:50.608Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:8:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:04:50.609Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:8:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:07:34.458Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:8:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:07:34.459Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:8:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:07:40.803Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:8:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:07:40.804Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:8:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:07:46.335Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:8:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:07:46.336Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:8:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:07:50.213Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:07:50.212Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:08:07.394Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:08:07.395Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:08:14.135Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:08:14.136Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:08:25.347Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:08:25.348Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:08:27.402Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:08:27.403Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:08:28.834Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:08:28.835Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:08:32.346Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:08:32.347Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:08:34.302Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:08:34.304Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:08:35.874Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:08:35.875Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:08:39.195Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:08:39.196Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:08:51.698Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:08:51.699Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:08:55.203Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-04T13:08:55.205Z  error: uncaughtException: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/yakhyo/Desktop/upgo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1060:15)
+    at Module._load (node:internal/modules/cjs/loader:905:27)
+    at Module.require (node:internal/modules/cjs/loader:1127:19)
+    at require (node:internal/modules/helpers:112:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/upgo/app.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-03-05T09:39:37.131Z  error: unhandledRejection: ApiError is not defined
+ReferenceError: ApiError is not defined
+    at createUser (/home/yakhyo/Desktop/upgo/controllers/user.controller.js:43:5)
+    at Layer.handle [as handle_request] (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/layer.js:95:5)
+    at /home/yakhyo/Desktop/upgo/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/index.js:47:12)
+2023-03-05T09:39:37.132Z  error: unhandledRejection: ApiError is not defined
+ReferenceError: ApiError is not defined
+    at createUser (/home/yakhyo/Desktop/upgo/controllers/user.controller.js:43:5)
+    at Layer.handle [as handle_request] (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/layer.js:95:5)
+    at /home/yakhyo/Desktop/upgo/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/index.js:47:12)
+2023-03-05T09:40:04.788Z  error: unhandledRejection: ApiError is not defined
+ReferenceError: ApiError is not defined
+    at createUser (/home/yakhyo/Desktop/upgo/controllers/user.controller.js:44:5)
+    at Layer.handle [as handle_request] (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/layer.js:95:5)
+    at /home/yakhyo/Desktop/upgo/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/index.js:47:12)
+2023-03-05T09:40:04.789Z  error: unhandledRejection: ApiError is not defined
+ReferenceError: ApiError is not defined
+    at createUser (/home/yakhyo/Desktop/upgo/controllers/user.controller.js:44:5)
+    at Layer.handle [as handle_request] (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/layer.js:95:5)
+    at /home/yakhyo/Desktop/upgo/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/yakhyo/Desktop/upgo/node_modules/express/lib/router/index.js:47:12)
